@@ -14,6 +14,9 @@ You will get the output as ``example.ptn``.
 Drag & drop your vector file to ``.exe``.  
 If you cannot drop a file and if you have your vector file and ``.exe`` in the same folder, try copying the ``.exe`` to other place (i.e. Desktop) then drag & drop the vector file. A ``.ptn`` appears in the same directory as your vector file.
 
+### Tips for vector image designing ###
+Make sure to set **unit** of the draw software to **mm**, otherwise you will get a converted image in a different scale.
+
 ### Supported format ###
 **Square elements only!**  
 + .svg
