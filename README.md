@@ -8,7 +8,7 @@ This program converts a vector image file to .ptn to be read by Dimatix Pattern 
 ### Usage ###
 #### Python version ####
 Run the program with input file as system argument(s).  
-You will get the output as ``example.ptn``.  
+You will get the output as ``example_[layername].ptn``.  
     ``python converttoDimatix.py example.svg``
 #### Windows version ####
 Drag & drop your vector file to ``.exe``.  
@@ -23,6 +23,7 @@ Make sure to set **unit** of the draw software to **mm**, otherwise you will get
 
 -----
 # Updates
+2015 Dec 09 Version 1.10 Multi-layered .svg can now be converted. Each layer will be named as [filename]_[layername].ptn
 2015 Dec 07 Version 1.01 Scaling problem solved  
 2015 Dec 03 Version 1.00 Windows drag & drop executable avilable!  
 2015 Dec 02 Version 1.00
