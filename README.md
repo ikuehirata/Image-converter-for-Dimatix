@@ -23,6 +23,7 @@ Make sure to set **unit** of the draw software to **mm**, otherwise you will get
 
 -----
 # Updates
+2015 Dec 09 Version 1.10 Minor bug fixes
 2015 Dec 09 Version 1.10 Multi-layered .svg can now be converted. Each layer will be named as [filename]_[layername].ptn
 2015 Dec 07 Version 1.01 Scaling problem solved  
 2015 Dec 03 Version 1.00 Windows drag & drop executable avilable!  
