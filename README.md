@@ -18,11 +18,12 @@ If you cannot drop a file and if you have your vector file and ``.exe`` in the s
 Make sure to set **unit** of the draw software to **mm**, otherwise you will get a converted image in a different scale.
 
 ### Supported format ###
-**Square elements only!**  
+**Rectangler elements only!**  
 + .svg by Inkscape
 
 -----
 # Updates
+2017 Mar 17 Version 1.14 Now compatible with rotated rectangles (negative coordinates) and minor bug fixes.
 2015 Dec 09 Version 1.11 Minor bug fixes  
 2015 Dec 09 Version 1.10 Multi-layered .svg can now be converted. Each layer will be named as [filename]_[layername].ptn
 2015 Dec 07 Version 1.01 Scaling problem solved  
