@@ -23,9 +23,9 @@ Make sure to set **unit** of the draw software to **mm**, otherwise you will get
 
 -----
 # Updates
-2017 Mar 17 Version 1.14 Now compatible with rotated rectangles (negative coordinates) and minor bug fixes.
+2017 Mar 17 Version 1.14 Now compatible with rotated rectangles (negative coordinates) and minor bug fixes  
 2015 Dec 09 Version 1.11 Minor bug fixes  
-2015 Dec 09 Version 1.10 Multi-layered .svg can now be converted. Each layer will be named as [filename]_[layername].ptn
+2015 Dec 09 Version 1.10 Multi-layered .svg can now be converted. Each layer will be named as [filename]_[layername].ptn  
 2015 Dec 07 Version 1.01 Scaling problem solved  
 2015 Dec 03 Version 1.00 Windows drag & drop executable avilable!  
 2015 Dec 02 Version 1.00
